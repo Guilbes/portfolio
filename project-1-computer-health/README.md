@@ -22,6 +22,7 @@ Inspect my laptop like an IT technician and recommend improvements.
 - RAM: [8 GB]
 - Storage: [477 GB SSD,  305 GB free]
 - OS: [Windows 10 Home 22H2]
+  
 [Task Manager]
 <img width="1014" height="884" alt="image" src="https://github.com/user-attachments/assets/06f17b5c-2334-488f-a7e2-847dd0518a40" />
 [Device Manager] 
